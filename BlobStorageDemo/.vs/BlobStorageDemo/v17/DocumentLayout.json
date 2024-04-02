@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\UL\\IoT\\BlobStorageDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F41000-F0B1-43D6-98E5-182101410906}|BlobStorageDemo.Desktop\\BlobStorageDemo.Desktop.csproj|y:\\ul\\iot\\blobstoragedemo\\blobstoragedemo.desktop\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{29F41000-F0B1-43D6-98E5-182101410906}|BlobStorageDemo.Desktop\\BlobStorageDemo.Desktop.csproj|solutionrelative:blobstoragedemo.desktop\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F41000-F0B1-43D6-98E5-182101410906}|BlobStorageDemo.Desktop\\BlobStorageDemo.Desktop.csproj|y:\\ul\\iot\\blobstoragedemo\\blobstoragedemo.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29F41000-F0B1-43D6-98E5-182101410906}|BlobStorageDemo.Desktop\\BlobStorageDemo.Desktop.csproj|solutionrelative:blobstoragedemo.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "Y:\\UL\\IoT\\BlobStorageDemo\\BlobStorageDemo.Desktop\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "BlobStorageDemo.Desktop\\Properties\\Settings.settings",
+              "ToolTip": "Y:\\UL\\IoT\\BlobStorageDemo\\BlobStorageDemo.Desktop\\Properties\\Settings.settings",
+              "RelativeToolTip": "BlobStorageDemo.Desktop\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-02T22:26:38.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "Y:\\UL\\IoT\\BlobStorageDemo\\BlobStorageDemo.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BlobStorageDemo.Desktop\\MainWindow.xaml",
+              "ToolTip": "Y:\\UL\\IoT\\BlobStorageDemo\\BlobStorageDemo.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "BlobStorageDemo.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T22:04:03.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

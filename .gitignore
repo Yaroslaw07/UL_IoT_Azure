@@ -31,3 +31,4 @@ StyleCopReport.xml
 # Secrets file
 secrets.json
 *.secrets
+*.settings

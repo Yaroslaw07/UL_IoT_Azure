@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\UL\\IoT\\TableStorageDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|y:\\ul\\iot\\tablestoragedemo\\tablestoragedemo.desktop\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|solutionrelative:tablestoragedemo.desktop\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|y:\\ul\\iot\\tablestoragedemo\\tablestoragedemo.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|solutionrelative:tablestoragedemo.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|y:\\ul\\iot\\tablestoragedemo\\tablestoragedemo.desktop\\model\\officesupply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|solutionrelative:tablestoragedemo.desktop\\model\\officesupply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|y:\\ul\\iot\\tablestoragedemo\\tablestoragedemo.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59697DB6-A4C4-4B26-AA06-8A0B3CA602EA}|TableStorageDemo.Desktop\\TableStorageDemo.Desktop.csproj|solutionrelative:tablestoragedemo.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "TableStorageDemo.Desktop\\Properties\\Settings.settings",
+              "ToolTip": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\Properties\\Settings.settings",
+              "RelativeToolTip": "TableStorageDemo.Desktop\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-02T22:47:59.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TableStorageDemo.Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TableStorageDemo.Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:47:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfficeSupply.cs",
+              "DocumentMoniker": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\Model\\OfficeSupply.cs",
+              "RelativeDocumentMoniker": "TableStorageDemo.Desktop\\Model\\OfficeSupply.cs",
+              "ToolTip": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\Model\\OfficeSupply.cs",
+              "RelativeToolTip": "TableStorageDemo.Desktop\\Model\\OfficeSupply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:47:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TableStorageDemo.Desktop\\MainWindow.xaml",
+              "ToolTip": "Y:\\UL\\IoT\\TableStorageDemo\\TableStorageDemo.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "TableStorageDemo.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T22:47:50.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
